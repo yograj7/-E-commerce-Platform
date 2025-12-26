@@ -1,0 +1,7 @@
+{
+  "name": "Maharaj Wholesale - Premium E-commerce Platform",
+  "description": "A high-end retail e-commerce platform for branded products featuring AI-driven product recommendations, sales analytics, and robust order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
